@@ -5,6 +5,10 @@ A plugin to slide through details of an image. Usecases are web comics and prese
 
 You have to set the coordinates (x, y, width, height) for each detail area and the plugin provides various navigation options to skip through these areas.
 
-The code is [on BitBucket](1) but I'm interested to move here. Any tips appreciated.
+The code is [on BitBucket](code) but I'm interested to move here. Any tips appreciated.
 
-[https://bitbucket.org/cdot/imgplayer](Bitbucket)
+[Project-Website](website), [Demo](demo), [Code](code)
+
+[code](https://bitbucket.org/cdot/imgplayer)
+[website](http://yaycomics.net/imgplayer)
+[demo](http://yaycomics.net/imgplayer/demo/latest)
