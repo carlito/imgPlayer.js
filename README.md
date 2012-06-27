@@ -7,6 +7,6 @@ You have to set the coordinates (x, y, width, height) for each detail area and t
 
 The code is on BitBucket but I'm interested to move here. Any tips appreciated.
 
-[Code](https://bitbucket.org/cdot/imgplayer)
-[Website](http://yaycomics.net/imgplayer)
+[Code](https://bitbucket.org/cdot/imgplayer) | 
+[Website](http://yaycomics.net/imgplayer) | 
 [Demo](http://yaycomics.net/imgplayer/demo/latest)
